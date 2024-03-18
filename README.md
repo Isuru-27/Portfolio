@@ -1,7 +1,8 @@
 # My Portfolio
+![port](https://github.com/Isuru-27/Portfolio/assets/139687227/0bca11b9-c305-4784-8264-8d642293f751)
 
 Welcome to my portfolio! This is where I showcase my projects and skills.<br><br>
-![port](https://github.com/Isuru-27/Portfolio/assets/139687227/75aa46a0-0211-4bb1-bdd9-1e1859a6b996)
+
 
 ## About Me
 
